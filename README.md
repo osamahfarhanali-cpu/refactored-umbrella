@@ -1,70 +1,225 @@
-# GitHub Codespaces ♥️ React
+this project is portfolio
+like (https://yujisatojr.github.io/react-portfolio-template/)
+Design and develop a modern, premium photography portfolio website inspired by the style and user experience of: https://yujisatojr.github.io/react-portfolio-template/
 
-Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
+The website is for a professional photographer and should focus heavily on visual storytelling, elegant animations, and immersive image presentation.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+Design Goals
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Minimalist and luxurious design
 
-This project was bootstrapped for you with [Vite](https://vitejs.dev/).
+Dark theme with subtle gold accents
 
-## Available Scripts
+Smooth animations and transitions
 
-In the project directory, you can run:
+Fast loading and responsive layout
 
-### `npm start`
+Mobile-first design
 
-We've already run this for you in the `Codespaces: server` terminal window below. If you need to stop the server for any reason you can just run `npm start` again to bring it back online.
+Modern and cinematic appearance
 
-Runs the app in the development mode.\
-Open [http://localhost:3000/](http://localhost:3000/) in the built-in Simple Browser (`Cmd/Ctrl + Shift + P > Simple Browser: Show`) to view your running application.
+Tech Stack
 
-The page will reload automatically when you make changes.\
-You may also see any lint errors in the console.
+React.js
 
-### `npm test`
+Tailwind CSS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Framer Motion for animations
 
-### `npm run build`
+React Router (if needed)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Optimized for GitHub Pages and Vercel deployment
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Website Structure
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Hero Section
 
-## Learn More
+Create a full-screen hero section containing:
 
-You can learn more in the [Vite documentation](https://vitejs.dev/guide/).
+Large background image or slideshow
 
-To learn Vitest, a Vite-native testing framework, go to [Vitest documentation](https://vitest.dev/guide/)
+Photographer's name prominently displayed
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Professional tagline such as:
 
-### Code Splitting
+"Capturing Moments That Last Forever"
 
-This section has moved here: [https://sambitsahoo.com/blog/vite-code-splitting-that-works.html](https://sambitsahoo.com/blog/vite-code-splitting-that-works.html)
+or
 
-### Analyzing the Bundle Size
+"Professional Photographer | Portraits | Events | Nature"
 
-This section has moved here: [https://github.com/btd/rollup-plugin-visualizer#rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer#rollup-plugin-visualizer)
+Buttons:
 
-### Making a Progressive Web App
+View Portfolio
 
-This section has moved here: [https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf](https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf)
+Contact Me
 
-### Advanced Configuration
+Add smooth entrance animations.
 
-This section has moved here: [https://vitejs.dev/guide/build.html#advanced-base-options](https://vitejs.dev/guide/build.html#advanced-base-options)
+2. About Section
 
-### Deployment
+Include:
 
-This section has moved here: [https://vitejs.dev/guide/build.html](https://vitejs.dev/guide/build.html)
+Photographer profile image
 
-### Troubleshooting
+Biography and experience
 
-This section has moved here: [https://vitejs.dev/guide/troubleshooting.html](https://vitejs.dev/guide/troubleshooting.html)
+Photography style and specialties
+
+Years of experience and achievements
+
+Layout should be modern and elegant.
+
+3. Portfolio / Gallery Section
+
+Create an advanced gallery with:
+
+Masonry or Grid layout
+
+Categories filter: 
+
+Portrait
+
+Wedding
+
+Events
+
+Nature
+
+Product Photography
+
+Features:
+
+Hover effects
+
+Lightbox image preview
+
+Lazy loading
+
+Smooth transitions
+
+Images should be the primary visual focus.
+
+4. Services Section
+
+Display photography services as beautiful cards:
+
+Wedding Photography
+
+Event Photography
+
+Product Photography
+
+Portrait Sessions
+
+Outdoor Photography
+
+Each card should contain:
+
+Icon
+
+Short description
+
+Pricing placeholder
+
+5. Testimonials Section
+
+Display client reviews in animated cards or carousel.
+
+Include:
+
+Client image
+
+Name
+
+Review text
+
+Rating stars
+
+6. Contact Section
+
+Create a modern contact form containing:
+
+Name
+
+Email
+
+Service Type
+
+Message
+
+Add social media links:
+
+Instagram
+
+Facebook
+
+WhatsApp
+
+Email
+
+Include call-to-action text encouraging clients to book sessions.
+
+7. Footer
+
+Footer should contain:
+
+Logo or photographer name
+
+Copyright
+
+Social links
+
+Navigation links
+
+UI/UX Requirements
+
+Smooth scrolling
+
+Scroll-triggered animations
+
+Glassmorphism effects where appropriate
+
+Clean typography
+
+Elegant spacing
+
+Professional photography aesthetics
+
+Code Requirements
+
+Use reusable React components
+
+Organize files into folders:
+
+components/
+
+pages/
+
+assets/
+
+data/
+
+hooks/
+
+Use clean and maintainable code
+
+Add comments where necessary
+
+Use placeholder images that can be easily replaced later
+
+Generate a complete production-ready website with all source code and responsive behavior.
+
+
+
+
+section 1 contains these images
+https://drive.google.com/drive/folders/1KZgHFicuGXDB8FzhbtjVz0CLzVQmseJf
+
+
+section 2 contains these images
+https://drive.google.com/drive/folders/13fX2cdAQ4DFBYDHtGiVZFGxWtHoxfkXf
+
+
+section 3 contains these images
+https://drive.google.com/drive/folders/1wpwPgEYJ2bz1RJcrr8tLYBeZeEfCKfdF
